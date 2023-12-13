@@ -126,7 +126,7 @@ html {
 
 .cover__description-text {
   max-width: 633px;
-  width:100%;
+  width: 100%;
   padding: 12px 0;
   word-spacing: 17px;
   font-size: 22px;
@@ -155,7 +155,6 @@ html {
   display: flex;
   flex-direction: column;
   flex-grow: 1;
-
 }
 
 .lots__heading {
@@ -306,7 +305,6 @@ html {
 
 .footer__social-list {
   list-style: none;
-  min-height: 48px;
   display: flex;
   justify-content: space-between;
   gap: 48px;
